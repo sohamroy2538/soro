@@ -9,7 +9,7 @@ permalink: /
 ![Myself](images/home_bio.jpg "Centre Pompideu ,Paris")
 
  
-### <center>At Centre Pompideu , Paris on a sunny day</center>
+### <center>At Centre Pompidou , Paris on a sunny day</center>
 
 
 

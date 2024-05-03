@@ -6,6 +6,19 @@ permalink: /research/
 ---
 <span style="font-size:larger;"> Since my undergraduate studies, I was drawn to the forefront of research and the latest technological advancements, eager to contribute to the community. Fortunately, I had the opportunity to collaborate with professors on research projects. Exploring topics like computer vision, sensor nodes, machine learning, and algorithms became more than just academic pursuits—they became passions. I am sincerely grateful for the opportunities I've been given and the trust bestowed upon me by my professors, allowing me to engage in meaningful contributions to the field. Here's a list of my research works . Feel free to explore the topics and paper if you are interested </span>
 
+- ## Application of computer vision/ ML in Microstructure Analysis · (Ongoing Masters Thesis)
+    ![Fracture in surfaces](..\images\image_thesis.png)
+
+
+    I am writing my masters thesis on the
+    domain of application of computer vision/Machine learning in the
+    manufacturing domain, specific to the Steel Industry. More specifically I am going to study the
+    occurence of multiple types of fractures and artefacts on steel surfaces that arise in manufacturing and testing of the structure, and 
+    localise /segment them for end user use. cyrrently this task requires expert
+    and manual analysis and I am looking ways to exploit algorithms to automate
+    this task. **The above example shows the types of images I am dealing with**.
+
+
 - ## A Fast and Effective Machine Learning Approach for Road Cracks Classification · [Paper](https://ieeexplore.ieee.org/document/10039911)
   ###  IEEE · Feb 16, 2023 
 
