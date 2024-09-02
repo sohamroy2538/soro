@@ -6,17 +6,24 @@ permalink: /research/
 ---
 <span style="font-size:larger;"> Since my undergraduate studies, I was drawn to the forefront of research and the latest technological advancements, eager to contribute to the community. Fortunately, I had the opportunity to collaborate with professors on research projects. Exploring topics like computer vision, sensor nodes, machine learning, and algorithms became more than just academic pursuits—they became passions. I am sincerely grateful for the opportunities I've been given and the trust bestowed upon me by my professors, allowing me to engage in meaningful contributions to the field. Here's a list of my research works . Feel free to explore the topics and paper if you are interested </span>
 
-- ## Application of computer vision/ ML in Microstructure Analysis · (Ongoing Masters Thesis)
-    ![Fracture in surfaces](..\images\image_thesis.png)
+
+- ## Texture-Based Image Data Generation: Enhancing Variation and Similarity in Low Data Regimes · (Ongoing Masters Thesis)
+    ![Variations and Texture similarity from an example texture](..\images\image thesis.jpg)
 
 
-    I am writing my masters thesis on the
-    domain of application of computer vision/Machine learning in the
-    manufacturing domain, specific to the Steel Industry. More specifically I am going to study the
+For my master's thesis, I am focusing on image data generation using texture-based images. I am utilizing the UHCS dataset to get ground truth (GT) texture example images. The goal of my work is to generate multiple variations of images from a single source image while maintaining the same texture. The primary objectives are twofold: first, to ensure that the generated textures are perceptually similar to the original texture from a human perspective; and second, to produce as many variations as possible, introducing pixel-wise differences in the generated samples. Current methods either fail to generate a sufficient number of variations or do not accurately preserve the texture, making this approach an example of data generation under low data conditions. **The above example shows the types of images that was dealt with**.
+
+
+- ## Application of computer vision/ ML in Microstructure Analysis ·
+    ![Fracture in surfaces](..\images\image_thesis_n.png)
+
+
+    I have done an application based project in the
+    manufacturing domain in cpllaboration with the MECS department of UdS, specific to the Steel Industry. More specifically I have studied the
     occurence of multiple types of fractures and artefacts on steel surfaces that arise in manufacturing and testing of the structure, and 
-    localise /segment them for end user use. cyrrently this task requires expert
-    and manual analysis and I am looking ways to exploit algorithms to automate
-    this task. **The above example shows the types of images I am dealing with**.
+    localise /segment them for end user use. This task required expert
+    and manual analysis and our methods have exploited algorithms to automate
+    this task. **The above example shows the types of images that was dealt with**.
 
 
 - ## A Fast and Effective Machine Learning Approach for Road Cracks Classification · [Paper](https://ieeexplore.ieee.org/document/10039911)
