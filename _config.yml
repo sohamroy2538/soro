@@ -21,10 +21,6 @@
 title: Soham Roy
 email: skr2538@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my personal website, offering a glimpse into my life and background. I value personal connections
-  beyond the professional realm. Whether meeting at a sports bar, indulging in karaoke, collaborating on projects, 
-  or sharing a meal (who doesn't love good food?), I'm open to various interactions. Feel free to reach out through any of my social profiles
-  (yes, I have them all 😉) if you'd like to connect. Looking forward to getting to know you!
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sohamroy2538.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
