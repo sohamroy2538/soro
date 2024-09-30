@@ -1,0 +1,9 @@
+go to directory soro,
+
+run - bundle exec jekyll serve
+
+make changes in vscode, and check in localhost port 4000
+
+git add .
+git commit -m "message"
+git push origin master
