@@ -13,7 +13,7 @@ permalink: /industry/
   ###  Software Engineer in ML· Work Study · Link : [AWSi](https://www.aws-institut.de/)
   #### Aug 2022 - Present · 1 yr 9 mos , Saarbrücken, Saarland, Germany
 
-    - Orchestrated Task Mining and PDF Extraction/NLP Entity Extraction projects, streamlining data accessibility and analysis.
+    - Task Mining and PDF Extraction/NLP Entity Extraction projects, streamlining data accessibility and analysis.
     - Developed diverse algorithmic logic implementations in Python, enhancing project efficiency and effectiveness.
     - Contributed to the fields of data mining, extracting valuable insights from complex datasets to inform decision-making.
     - Developer of two successful Human Action Recognition research projects, now thriving as product spinoffs spawned by the institute.
@@ -34,7 +34,7 @@ permalink: /industry/
     - Led our AI team, fostering innovation and achieving excellence in project execution.
     - Recognized for driving revenue growth and operational efficiency through AI integration
 
-    **Technologies/Tools**: Algorithms and Data Structures (mainly Strings based) , NLP , Spacy/NLTK , Python , Image Processing and Computer Vision, Deep Learning, Flask, Postman, CRM , OpenCV , PyTorch , ML , Statistical Data Analysis , Data Engineering, Feature Engineering , ETL, DataBricks , Tries , Predictive Modelling
+    **Technologies/Tools**: Algorithms and Data Structures (mainly Strings based) , NLP , Spacy/NLTK , Python , Image Processing and Computer Vision, Deep Learning, Flask, Postman, CRM , OpenCV , PyTorch , ML , Statistical Data Analysis , Data Engineering, Feature Engineering , ETL , Tries , Predictive Modelling
 
 ---
 - ## Dell Technologies

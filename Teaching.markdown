@@ -17,5 +17,11 @@ permalink: /teaching/
   ###  Universität des Saarlandes · Nov 2023 - Apr 2024 
 
 
-    I was a teaching assistant for a course led by Prof. Dr. Raimund Seidel with 24 students under my guidance. It was a mandatory course for any Bachelor informatik related subjects worth 9 credit points. My responsibilities included helping students with any questions they had regarding any material on the coursework , grading assignments, providing solutions to problems, and supervising exams.
+    I was a teaching assistant for a course led by Prof. Dr. Raimund Seidel with 24 students under my tutorship. It was a mandatory course for any Bachelor informatik related subjects worth 9 credit points. My responsibilities included helping students with any questions they had regarding any material on the coursework , grading assignments, providing solutions to problems, and supervising exams.
 
+
+- ## Tutor for ELements in Machine Learning  (6CP)· [Course Link](https://cms.sic.saarland/eml24/)
+  ###  Universität des Saarlandes · Nov 2024 - Apr 2025 
+
+
+    I am a teaching assistant for a course led by Prof. Dr. Isabel Valera with 89 students under my tutorship. 
