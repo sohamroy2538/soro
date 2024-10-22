@@ -24,7 +24,7 @@ I hold a bachelor's degree in Computer Science and Engineering and am currently 
 | High Level Computer Vision                     | MPI-INF    | 6 CP          | SS22     | [Link](https://cms.sic.saarland/hlcvss22)  |
 | Image Processing and Computer Vision           | MIA Group    | 9 CP          | SS22     | [Link](https://www.mia.uni-saarland.de/Teaching/ipcv22.shtml)  |
 | 3D Computer Vision                             |  Saarland Uni/CVMP Lab   | 9 CP          | WS23-24  | [Link](https://cms.sic.saarland/compvis2324)  |
-
+| GNNS: A connectionst view of ML                           |  CISPA   | 7 CP          | SS24  |    |
 
 - ## B.Tech in Computer Science and Engineeering 
   ###  KIIT University · Apr 2018 - Apr 2022
